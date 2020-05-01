@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#AFEEEE"
+    tools:context="com.example.myapplication123.Main2Activity">
+
+    >
+
+    <ImageView
+        android:layout_width="410dp"
+        android:layout_height="200dp"
+        android:background="@drawable/riki2"
+        />
+
+    <ImageView
+        android:layout_width="78dp"
+        android:layout_height="99dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/riki3" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn1riki"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="200dp"
+        android:textSize="20dp"
+        android:text="Al Faatihah"
+        android:background="#FFE4E1"
+        android:onClick="buka1"
+        android:textColor="#6A5ACD"
+        android:textStyle="bold"
+        android:layout_marginLeft="140dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:text="Al Baqarah"
+        android:background="#FFE4E1"
+        android:textColor="#6A5ACD"
+        android:textStyle="bold"
+        android:layout_marginLeft="140dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:text="Ali Imran"
+        android:background="#FFE4E1"
+        android:textColor="#6A5ACD"
+        android:textStyle="bold"
+        android:layout_marginLeft="140dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:text="An Nisaa"
+        android:background="#FFE4E1"
+        android:onClick="buka2"
+        android:textColor="#6A5ACD"
+        android:textStyle="bold"
+        android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Al Maaidah"
+            android:background="#FFE4E1"
+            android:onClick="buka2"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Al An'aam"
+            android:background="#FFE4E1"
+            android:onClick="buka2"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Al A'raaf"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Al Anfaal"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="At Taubah"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Yuunus"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Huud"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Yuusuf"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Ar ra'd"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Ibraahiim"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Al Hijr"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+            android:text="Yuusuf"
+            android:background="#FFE4E1"
+            android:textColor="#6A5ACD"
+            android:textStyle="bold"
+            android:layout_marginLeft="140dp" />
+
+    </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>
